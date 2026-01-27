@@ -1,6 +1,0 @@
-- ScreenSpot: https://huggingface.co/datasets/rootsautomation/ScreenSpot
-- ScreenSpot v2: https://huggingface.co/datasets/HongxinLi/ScreenSpot_v2
-- ScreenSpot-Pro: https://huggingface.co/datasets/HongxinLi/ScreenSpot-Pro
-- Visual-WebBench: https://huggingface.co/datasets/visualwebbench/VisualWebBench
-- WebSRC: https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0
-- Showdown-Clicks: https://huggingface.co/datasets/generalagents/showdown-clicks
