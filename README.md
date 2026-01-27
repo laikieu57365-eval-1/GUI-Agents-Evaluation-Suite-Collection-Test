@@ -1,16 +1,17 @@
 # GUI Agents Evaluation Suite Collection
 
-This repository collects information about HuggingFace's GUI Agents Evaluation Suite (ScreenSuite).
+A collection of information about the HuggingFace GUI Agents Evaluation Suite.
 
-## Desktop Environment-related Grounding Benchmarks
+## Desktop Environment Grounding Benchmarks
 
-The following are desktop environment-related Grounding benchmarks from the ScreenSuite Grounding/Perception Benchmarks section:
+This repository collects all the desktop environment-related Grounding benchmarks from HuggingFace.
 
-- ScreenSpot: https://huggingface.co/datasets/rootsautomation/ScreenSpot
-- ScreenSpot v2: https://huggingface.co/datasets/HongxinLi/ScreenSpot_v2
-- ScreenSpot-Pro: https://huggingface.co/datasets/HongxinLi/ScreenSpot-Pro
-- Visual-WebBench: https://huggingface.co/datasets/visualwebbench/VisualWebBench
-- WebSRC: https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0
-- Showdown-Clicks: https://huggingface.co/datasets/generalagents/showdown-clicks
+### Benchmarks List
 
-These benchmarks are categorized as "Web" platform benchmarks in the ScreenSuite, which run on desktop web browser environments.
+- ScreenSpot-v2: https://huggingface.co/datasets/OS-Copilot/ScreenSpot-v2
+- OS-Atlas-data: https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data
+- ScreenSpot-Pro: https://huggingface.co/datasets/likaixin/ScreenSpot-Pro
+
+## About
+
+These benchmarks are used to evaluate GUI agents' grounding capabilities on desktop environments including Windows, Linux, and MacOS.
